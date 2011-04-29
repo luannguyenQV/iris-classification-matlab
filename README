@@ -1,0 +1,5 @@
+This project uses a neural network to determine to which species a certain iris (defined by several measurements) belongs to.
+It is implemented in MATLAB.
+
+For more detail, refer to `Report.pdf`, which contains a detailed report of the entire process.
+For the license of the source code, refer to the LICENSE file.
